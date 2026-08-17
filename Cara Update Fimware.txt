@@ -1,0 +1,11 @@
+Cara Update Fimware
+
+1. Edit pada program "const char* FIRMWARE_VERSION = "v1.0.0";" edit bagian v1.0.0 menjadi diatasnya misal v1.1.0
+2. Compiled Binnary ino
+3. Bagian GitHub "https://github.com/Hahangus22/Clowsens_Fimware/releases"
+4. Tekan Draft a new release
+5. Tag di edit menjadi v1.x sesuaikan dengan program ya pastikan di atasnya
+6. Title edit isi "firmware 1.x" sesuaikan dengan tag
+7. Attach Binaries dan pilih filenya di tempat menyimpan biasanya jadi 1 folder
+8. Release label pilih latest
+9. Publish Release
